@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumerData" />
+        <module name="createData" />
+        <module name="createData01" />
+        <module name="createData02" />
+        <module name="createData03" />
+        <module name="createData1" />
+        <module name="createData2" />
+        <module name="kafka_storm" />
+        <module name="webData" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumerData" target="1.8" />
+      <module name="createData" target="1.8" />
+      <module name="createData01" target="1.8" />
+      <module name="createData02" target="1.8" />
+      <module name="createData03" target="1.8" />
+      <module name="createData1" target="1.8" />
+      <module name="createData2" target="1.8" />
+      <module name="kafka_storm" target="1.8" />
+      <module name="webData" target="1.8" />
+      <module name="work3" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
